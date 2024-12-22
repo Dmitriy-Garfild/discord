@@ -1,0 +1,13 @@
+/ip firewall address-list add address=discord.com list=NNM-club
+/ip firewall address-list add address=discord.gg list=NNM-club
+/ip firewall address-list add address=discord.dev list=NNM-club
+/ip firewall address-list add address=discord.new list=NNM-club
+/ip firewall address-list add address=discord.gift list=NNM-club
+/ip firewall address-list add address=discord.co list=NNM-club
+/ip firewall address-list add address=dis.gd list=NNM-club
+/ip firewall address-list add address=discordapp.com list=NNM-club
+/ip firewall address-list add address=discordapp.net list=NNM-club
+/ip firewall address-list add address=discord.media list=NNM-club
+/ip firewall address-list add address=discordcdn.com list=NNM-club
+/ip firewall address-list add address=discordstatus.com list=NNM-club
+/ip firewall address-list add address=discord-attachments-uploads-prd.storage.googleapis.com list=NNM-club
